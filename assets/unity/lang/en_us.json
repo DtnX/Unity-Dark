@@ -295,5 +295,26 @@
   "screen.botanicalmachinery.mechanical_runic_altar": "§7Mechanical Runic Altar",
 
   "_comment": "Astral Sorcery",
-  "itemGroup.astralsorcery": "§7Astral Sorcery"
+  "itemGroup.astralsorcery": "§7Astral Sorcery",
+
+  "_comment": "Thermal",
+  "block.thermal.machine_bottler": "§7Fluid Encapsulator",
+  "block.thermal.machine_brewer": "§7Alchemical Imbuer",
+  "block.thermal.machine_centrifuge": "§7Centrifugal Separator",
+  "block.thermal.machine_chiller": "§7Blast Chiller",
+  "block.thermal.machine_crafter": "§7Sequential Fabricator",
+  "block.thermal.machine_crucible": "§7Magma Crucible",
+  "block.thermal.machine_furnace": "§7Redstone Furnace",
+  "block.thermal.machine_insolator": "§7Phytogenic Insolator",
+  "block.thermal.machine_press": "§7Multiservo Press",
+  "block.thermal.machine_pulverizer": "§7Pulverizer",
+  "block.thermal.machine_pyrolyzer": "§7Pyrolyzer",
+  "block.thermal.machine_refinery": "§7Fractionating Still",
+  "block.thermal.machine_sawmill": "§7Sawmill",
+  "block.thermal.machine_smelter": "§7Induction Smelter",
+  "itemGroup.thermal.blocks": "§7Thermal Series: Blocks",
+  "itemGroup.thermal.foods": "§7Thermal Series: Crops and Foods",
+  "itemGroup.thermal.items": "§7Thermal Series: Items",
+  "itemGroup.thermal.resources": "§7Thermal Series: Resources",
+  "itemGroup.thermal.tools": "§7Thermal Series: Tools"
 }
