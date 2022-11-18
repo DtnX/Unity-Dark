@@ -292,5 +292,8 @@
   "screen.botanicalmachinery.mechanical_brewery": "§7Mechanical Brewery",
   "screen.botanicalmachinery.mechanical_daisy": "§7Mechanical Daisy",
   "screen.botanicalmachinery.mechanical_mana_pool": "§7Machanical Mana Pool",
-  "screen.botanicalmachinery.mechanical_runic_altar": "§7Mechanical Runic Altar"
+  "screen.botanicalmachinery.mechanical_runic_altar": "§7Mechanical Runic Altar",
+
+  "_comment": "IRON CHESTS",
+  "itemGroup.astralsorcery": "§7Astral Sorcery"
 }
