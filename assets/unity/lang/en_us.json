@@ -431,6 +431,22 @@
   "misc.refinedstorage.network_item.not_found": "§fNetwork not found.",
   "misc.refinedstorage.network_item.shortcut_not_found": "§fThere isn't any %s in your inventory.",
   "misc.refinedstorage.network_item.shortcut_duplicate": "§fThere is more than one %s in your inventory.",
-  "misc.refinedstorage.network_item.out_of_energy": "§fThe %s is out of energy."
+  "misc.refinedstorage.network_item.out_of_energy": "§fThe %s is out of energy.",
+
+  "_comment": "extrastorage",
+  "block.extrastorage.advanced_exporter": "§fAdvanced Exporter",
+  "block.extrastorage.advanced_importer": "§fAdvanced Importer",
+  "block.extrastorage.diamond_crafter": "§fDiamond Crafter",
+  "block.extrastorage.gold_crafter": "§fGold Crafter",
+  "block.extrastorage.iron_crafter": "§fIron Crafter",
+  "block.extrastorage.netherite_crafter": "§fNetherite Crafter",
+  "block.extrastorage.block_1024k": "§f1024k Storage Block",
+  "block.extrastorage.block_1048576k_fluid": "§f1048576k Fluid Storage Block",
+  "block.extrastorage.block_16384k": "§f16384k Storage Block",
+  "block.extrastorage.block_16384k_fluid": "§f16384k Fluid Storage Block",
+  "block.extrastorage.block_256k": "§f256k Storage Block",
+  "block.extrastorage.block_262144k_fluid": "§f262144k Fluid Storage Block",
+  "block.extrastorage.block_4096k": "§f4096k Storage Block",
+  "block.extrastorage.block_65536k_fluid": "§f65536k Fluid Storage Block"
 
 }
